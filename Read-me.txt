@@ -1,0 +1,6 @@
+O algoritmo de Floyd-Warshall calcula os caminhos mais curtos entre todos os pares de vértices de um grafo direcionado 
+e ponderado que eventualmente possua arcos com peso negativo, mas que não possua ciclos de custo negativo.
+
+Algoritmo recursivo que utiliza a recursão que é um método de resolução de problemas que envolve desdobrar
+um problema em sub-problemas mais pequenos e assim sucessivamente até chegar a um problema elementar, o
+suficiente para que este possa ser resolvido facilmente.
